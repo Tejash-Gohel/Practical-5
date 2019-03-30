@@ -1,0 +1,4 @@
+Proform File Handling.
+1. Write a C# program to copy data from one file to another using StreamReader and StreamWriter class.
+2. Write a C# Program to Read Lines from a File until the End of File is Reached.
+3. Write a C# Program to List Files in a Directory.
